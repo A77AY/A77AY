@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
-
 <!--
 **KrickRay/KrickRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
